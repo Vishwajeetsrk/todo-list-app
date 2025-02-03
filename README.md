@@ -22,7 +22,8 @@ A simple to-do list application built using HTML, CSS, and JavaScript.
 - `script.js` - Logic for adding and removing tasks
 
 ## Preview
-![Screenshot](screenshot.png)
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/408c468b-3371-4e12-a376-472416bd755e" />
+
 
 ## Resources
 - [JavaScript DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
